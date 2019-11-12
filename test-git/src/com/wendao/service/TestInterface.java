@@ -9,4 +9,7 @@ public interface TestInterface {
 	
 	void m_p2();
 	
+	
+	void m3_p1();
+	
 }
